@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{95D8352C-A606-4BDC-A395-DE0323A9FAB8}</ProjectGuid>
+    <ProjectGuid>{4D683A4E-594B-4265-8C4E-6A2E00ADBD77}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>CaesarCipher</RootNamespace>
-    <AssemblyName>CaesarCipher</AssemblyName>
+    <RootNamespace>CaesarCiphere</RootNamespace>
+    <AssemblyName>CaesarCiphere</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

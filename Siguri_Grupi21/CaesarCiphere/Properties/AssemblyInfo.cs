@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("CaesarCipher")]
+[assembly: AssemblyTitle("CaesarCiphere")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("CaesarCipher")]
+[assembly: AssemblyProduct("CaesarCiphere")]
 [assembly: AssemblyCopyright("Copyright ©  2021")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("95d8352c-a606-4bdc-a395-de0323a9fab8")]
+[assembly: Guid("4d683a4e-594b-4265-8c4e-6a2e00adbd77")]
 
 // Version information for an assembly consists of the following four values:
 //
