@@ -1,7 +1,0 @@
-C:\Users\alber\Desktop\Siguri-Projekte\S_Dhenave_GR21\Siguri_Grupi21\CaesarCiphere\bin\Debug\CaesarCiphere.exe.config
-C:\Users\alber\Desktop\Siguri-Projekte\S_Dhenave_GR21\Siguri_Grupi21\CaesarCiphere\bin\Debug\CaesarCiphere.exe
-C:\Users\alber\Desktop\Siguri-Projekte\S_Dhenave_GR21\Siguri_Grupi21\CaesarCiphere\bin\Debug\CaesarCiphere.pdb
-C:\Users\alber\Desktop\Siguri-Projekte\S_Dhenave_GR21\Siguri_Grupi21\CaesarCiphere\obj\Debug\CaesarCiphere.csprojAssemblyReference.cache
-C:\Users\alber\Desktop\Siguri-Projekte\S_Dhenave_GR21\Siguri_Grupi21\CaesarCiphere\obj\Debug\CaesarCiphere.csproj.CoreCompileInputs.cache
-C:\Users\alber\Desktop\Siguri-Projekte\S_Dhenave_GR21\Siguri_Grupi21\CaesarCiphere\obj\Debug\CaesarCiphere.exe
-C:\Users\alber\Desktop\Siguri-Projekte\S_Dhenave_GR21\Siguri_Grupi21\CaesarCiphere\obj\Debug\CaesarCiphere.pdb
