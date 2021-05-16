@@ -1,0 +1,9 @@
+C:\Users\BUTON\Desktop\Siguri\CaesarCipher\Gui\bin\Debug\Gui.exe.config
+C:\Users\BUTON\Desktop\Siguri\CaesarCipher\Gui\bin\Debug\Gui.exe
+C:\Users\BUTON\Desktop\Siguri\CaesarCipher\Gui\bin\Debug\Gui.pdb
+C:\Users\BUTON\Desktop\Siguri\CaesarCipher\Gui\obj\Debug\Gui.csprojAssemblyReference.cache
+C:\Users\BUTON\Desktop\Siguri\CaesarCipher\Gui\obj\Debug\Gui.Form1.resources
+C:\Users\BUTON\Desktop\Siguri\CaesarCipher\Gui\obj\Debug\Gui.Properties.Resources.resources
+C:\Users\BUTON\Desktop\Siguri\CaesarCipher\Gui\obj\Debug\Gui.csproj.GenerateResource.cache
+C:\Users\BUTON\Desktop\Siguri\CaesarCipher\Gui\obj\Debug\Gui.exe
+C:\Users\BUTON\Desktop\Siguri\CaesarCipher\Gui\obj\Debug\Gui.pdb
