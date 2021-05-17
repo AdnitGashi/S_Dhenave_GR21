@@ -55,9 +55,11 @@
             // 
             this.Key.Location = new System.Drawing.Point(40, 192);
             this.Key.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
+            this.Key.MaxLength = 10;
             this.Key.Name = "Key";
             this.Key.Size = new System.Drawing.Size(167, 26);
             this.Key.TabIndex = 2;
+            this.Key.TextChanged += new System.EventHandler(this.Key_TextChanged);
             // 
             // label1
             // 

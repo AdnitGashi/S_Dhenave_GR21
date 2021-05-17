@@ -2,7 +2,8 @@
   "ExpandedNodes": [
     "",
     "\\CaesarCipher",
-    "\\Siguri_Grupi21\\CaesarCiphere"
+    "\\CaesarCipher\\Caesar",
+    "\\CaesarCipher\\Gui"
   ],
   "SelectedNode": "\\CaesarCipher\\CaesarCipher.sln",
   "PreviewInSolutionExplorer": false
